@@ -7,7 +7,7 @@ export function Skills() {
       icon: Code2,
       title: "Langages de Programmation",
       color: "bg-blue-100 text-blue-600",
-      skills: ["JavaScript", "PHP", "Python", "Windev"]
+      skills: ["JavaScript", "PHP", "Python", "Windev", "Dart"]
     },
     {
       icon: Server,
@@ -19,7 +19,7 @@ export function Skills() {
       icon: Palette,
       title: "Frameworks Frontend",
       color: "bg-purple-100 text-purple-600",
-      skills: ["React.js", "Tailwind CSS"]
+      skills: ["React.js", "Tailwind CSS", "Flutter-mobile"]
     },
     {
       icon: Database,
