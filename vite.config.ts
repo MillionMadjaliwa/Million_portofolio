@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base: '/',
+    base:'/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
@@ -51,8 +51,7 @@
       },
     },
     build: {
-      outDir: 'dist',
-      emptyOutDir: true
+      outDir: 'dist', 
     },
     server: {
       port: 3000,
